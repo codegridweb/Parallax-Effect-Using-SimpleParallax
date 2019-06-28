@@ -1,0 +1,70 @@
+html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+}
+
+body {
+      background: url(hero.jpg) no-repeat 50% 50%;
+      background-size: cover;
+      background-attachment: fixed;
+}
+
+.whitespace {
+      height: 300px;
+}
+
+h1 {
+      font-family: "Monument Extended";
+      color: #f1Db61;
+}
+
+img {
+      width: 100%;
+}
+
+.txt {
+      position: relative;
+}
+
+.one {
+      margin-top: 100px;
+}
+
+.text-1 {
+      top: 160px;
+      left: -90px;
+}
+
+.text-2 {
+      z-index: 1;
+      top: 280px;
+      left: 280px;
+}
+
+.three {
+      z-index: 2;
+      top: -720px;
+      width: 120%;
+}
+
+.four {
+      margin-top: -400px;
+}
+
+.text-3 {
+      z-index: 1;
+      top: -140px;
+      left: -180px;
+}
+
+.text-4 {
+      z-index: 1;
+      top: 300px;
+      left: 300px;
+}
+
+.six {
+      top: -750px;
+}
